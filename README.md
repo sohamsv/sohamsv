@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sohamvaidya11@gmail.com**
 
-- My porfolio:- https://sohamsv.github.io/**
+- My porfolio:- **https://sohamsv.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
