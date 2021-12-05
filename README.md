@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohamsv" alt="sohamsv" /></a> </p>
 
-- 🔭 I’m currently working on **Desktop Assistant**
-
 - 💬 Ask me about **Python, Machine learning**
 
 - 📫 How to reach me **sohamvaidya11@gmail.com**
