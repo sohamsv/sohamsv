@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamsv&label=Profile%20views&color=0e75b6&style=flat" alt="sohamsv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohamsv" alt="sohamsv" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=sohamsv)](https://github.com/sohamsv/github-profile-trophy)
 - 💬 Ask me about **Python, Machine learning**
 
 - 📫 How to reach me **sohamvaidya11@gmail.com**
