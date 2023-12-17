@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamsv&label=Profile%20views&color=0e75b6&style=flat" alt="sohamsv" /> </p>
 
-- 💬 Ask me about **Data Science, Data Analytics, Python**
+- 💬 Ask me about **Data Science, Data Analytics, Python, Excel, Power Bi**
 
 - 📫 How to reach me **sohamvaidya11@gmail.com**
 
