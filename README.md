@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   
-  <!-- Excel -->
+ <!-- Excel -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" alt="excel" width="40" height="40"/>
   </a>
