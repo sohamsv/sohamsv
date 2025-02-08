@@ -49,7 +49,7 @@
 - Anything related to Python programming
 - Data analysis with Excel and SQL
 - Creating dynamic reports and dashboards with Power BI
-
+  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamsv&show_icons=true&locale=en" alt="sohamsv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamsv&" alt="sohamsv" /></p>
