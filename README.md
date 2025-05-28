@@ -43,7 +43,7 @@
 
 ### 🌱 I’m currently learning:
 - Complex SQL queries for data analysis to manage and manipulate large datasets more effectively.
-- In-depth features of Power BI, specifically preparing for the PL-300 exam to master data modeling, visualization, and reporting.
+- In-depth features of Power BI to master data modeling, visualization, and reporting.
 
 ### 💬 Ask me about:
 - Anything related to Python programming
