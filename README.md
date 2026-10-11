@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sohamvaidya101@gmail.com**
 
-- My porfolio:- **https://sohamsv.github.io/**
+- My porfolio:- **https://www.datascienceportfol.io/sohamvaidya101**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
