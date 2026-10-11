@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soham Vaidya</h1>
 <h3 align="center">Data enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamsv&label=Profile%20views&color=0e75b6&style=flat" alt="sohamsv" /> </p>
-
 - 💬 Ask me about **Data Science, Data Analytics, Python, Excel, Power BI**
 
 - 📫 How to reach me **sohamvaidya101@gmail.com**
